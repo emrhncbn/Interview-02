@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.robot-item {
+  display: inline-block;
+}
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+button {
+  background-color: rgb(186, 186, 186);
+  border-radius: 3px;
+}
